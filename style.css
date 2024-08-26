@@ -19,7 +19,7 @@ height: 100vh;
 
 .light {
     --text-color: black;
-    --bg-url: url(./.vscode/sim\ jpg.jpg);
+    --bg-url: url(./.vscode/bg-mobile-light.jpg);
     --stroke-color:  rgba(0, 0, 0, 0.5);
     --surface-color: rgba(0, 0, 0, 0.05);
     --surface-color-hover: rgba(0, 0, 0, 0.2);
@@ -134,6 +134,7 @@ ul li a {
     border-radius: 8px;
 
     backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
     text-decoration: none;
     font-weight: 500;
 
