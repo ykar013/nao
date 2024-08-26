@@ -1,5 +1,4 @@
 <h1 align ="center"> DevLinks </h1>
-
 <p align ="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
@@ -18,7 +17,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="./assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
