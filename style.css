@@ -19,7 +19,7 @@ height: 100vh;
 
 .light {
     --text-color: black;
-    --bg-url: url(./.vscode/bg-mobile-light.png);
+    --bg-url: url(./.vscode/sim\ jpg.jpg);
     --stroke-color:  rgba(0, 0, 0, 0.5);
     --surface-color: rgba(0, 0, 0, 0.05);
     --surface-color-hover: rgba(0, 0, 0, 0.2);
